@@ -1,11 +1,25 @@
-## :jack_o_lantern: Sobre me :jack_o_lantern:
-### :large_orange_diamond: PT-BR :large_orange_diamond:
-Olá! Sou um estudante do __CENTRO DE ENSINO MÉDIO 01__ em **_São Sebastião - DF_**. Eu comecei a aprender a programar com **Python** aos meus 14 anos e aos 15 anos tive muita instabilidade de decidir o que iria fazer, pensando muito em ser um Desenvolvedor Mobile/Desktop, já passando por Java (Não me dediquei muito, pois não estava confiante de me tornar algo) e agora estou estudando HTML, CSS e JS para poder enfim estudar React Native, Electron e outros.
+<h1 align="center">
+  :jack_o_lantern: Hi I'm Rafael Arley :jack_o_lantern:
+</h1>
 
-## :jack_o_lantern: About me :jack_o_lantern:
-### :large_orange_diamond: EN :large_orange_diamond:
-Hi! I am a student at the __CENTRO DE ENDINO DE EDINO 01__ in **_São Sebastião - DF_**. I started to learn to program with ** Python ** at the age of 14 and at the age of 15 I had a lot of instability to decide what I was going to do, thinking a lot about being a Mobile / Desktop Developer, already going through Java (I didn't dedicate myself very much, because I wasn’t confident of becoming something) and now i'm studying HTML, CSS and JS so that I could finally study React Native, Electron and others. 
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=IIShadowGII&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college I will study Software Engineering, because I intend to become a Mobile / Desktop Developer. I started programming at the age of 14 with the Python language in order to understand how the world of programming worked.
+
+**→ I'm currently learning: HTML, CSS and Javascript**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="25px" width="25px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="25px" width="25px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript language" height="20px" width="20px"></img>
+**.**
+
+<h3 align="center">Skills</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="Python" height="50px" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" height="50px" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="50px" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50px" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="50px" width="50px"></img>
+</p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" align="center" alt="Stats"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center" alt="Top-langs">
