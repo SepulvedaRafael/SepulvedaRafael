@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/COUNTRY-BRAZIL-blue?style=for-the-badge" alt="Country"></img>
+  <img src="https://img.shields.io/github/followers/IIShadowGII?style=for-the-badge" alt="Followers"></img>
+</p>
+
 <h1 align="center">
   :jack_o_lantern: Hi I'm Rafael Arley :jack_o_lantern:
 </h1>
