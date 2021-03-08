@@ -15,9 +15,11 @@ I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college 
 <img src="https://img.icons8.com/color/2x/flutter.png" alt="Flutter" height="25px" width="25px"></img>
 **.**
 
-<h3>Contact</h3>
+<h3>How reach me</h3>
 
-![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=TWITTER&logo=twitter&style=for-the-badge&url=https://twitter.com/RafaelArley2)
+[![Twitter Badge](https://img.shields.io/badge/-@RafaelArley2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RafaelArley2)](https://twitter.com/RafaelArley2)
+[![Outlook Badge](https://img.shields.io/badge/-iishadowgii@gmail.com-red?style=flat&labelColor=red&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRttgMWXcRDWFSbVPDJzkKnFvRDwFdxsQQMcQSvKrFsRktqTHlSlQWTjWsNQnVXCPVzCVXb)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRttgMWXcRDWFSbVPDJzkKnFvRDwFdxsQQMcQSvKrFsRktqTHlSlQWTjWsNQnVXCPVzCVXb)
+[![LinkedIn Badge](https://img.shields.io/badge/-RafaelArley-blue?style=flat&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafael-arley-1952281b9)](https://www.linkedin.com/in/rafael-arley-1952281b9)
 
 <h3>Skills</h3>
 <p>
