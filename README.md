@@ -34,4 +34,5 @@ I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" align="center" alt="Stats"></img>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" align="center" alt="Top-langs">
