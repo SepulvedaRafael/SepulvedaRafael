@@ -33,5 +33,4 @@ I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college 
 <h3 align="center">Contact</h3>
 <p align="center">
   <img src="https://img.shields.io/twitter/url?color=blue&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRafaelArley2" alt="Twitter"></img>
-  <img src="https://img.shields.io/twitter/follow/RafaelArley2?color=blue&logo=twitter&style=for-the-badge" alt="Follow"></img>
 </p>
