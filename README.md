@@ -4,24 +4,24 @@
 </p>
 
 <h1 align="center">
-  :zap: Hi I'm Rafael Arley :zap:
+  <i>:zap: Hi I'm Rafael Arley :zap:</i>
 </h1>
 
 
-I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college I will study Software Engineering, because I intend to become a Mobile / Desktop Developer. I started programming at the age of 14 with the Python language in order to understand how the world of programming worked.
+<p align="center">I am a student at Centro 01 High School in <b><i>São Sebatião, DF</i></b>. In college I will study Software Engineering, because I intend to become a Mobile / Desktop Developer. I started programming at the age of 14 with the Python language in order to understand how the world of programming worked.</p>
 
-**→ I'm currently learning: Dart/Flutter**
+**_→ I'm currently learning: Dart/Flutter
 <img src="https://img.icons8.com/color/2x/dart.png" alt="Dart" height="25px" width="25px"></img>
 <img src="https://img.icons8.com/color/2x/flutter.png" alt="Flutter" height="25px" width="25px"></img>
-**.**
+._**
 
-<h2>:e-mail: How reach me :e-mail:</h2>
+<h2><i>:e-mail: How reach me :e-mail:</i></h2>
 
 [![Twitter Badge](https://img.shields.io/badge/-@RafaelArley2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RafaelArley2)](https://twitter.com/RafaelArley2)
 [![Outlook Badge](https://img.shields.io/badge/-iishadowgii@gmail.com-red?style=flat&labelColor=red&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRttgMWXcRDWFSbVPDJzkKnFvRDwFdxsQQMcQSvKrFsRktqTHlSlQWTjWsNQnVXCPVzCVXb)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRttgMWXcRDWFSbVPDJzkKnFvRDwFdxsQQMcQSvKrFsRktqTHlSlQWTjWsNQnVXCPVzCVXb)
 [![LinkedIn Badge](https://img.shields.io/badge/-RafaelArley-blue?style=flat&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafael-arley-1952281b9)](https://www.linkedin.com/in/rafael-arley-1952281b9)
 
-<h2>:trident: Skills :trident:</h2>
+<h2><i>:trident: Skills :trident:</i></h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="Python" height="50px" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" height="50px" width="50px"></img>
