@@ -5,10 +5,9 @@
 
 I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college I will study Software Engineering, because I intend to become a Mobile / Desktop Developer. I started programming at the age of 14 with the Python language in order to understand how the world of programming worked.
 
-**→ I'm currently learning: HTML, CSS and Javascript**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="25px" width="25px"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="25px" width="25px"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript language" height="20px" width="20px"></img>
+**→ I'm currently learning: Dart/Flutter**
+<img src="https://img.icons8.com/color/2x/dart.png" alt="Dart" height="25px" width="25px"></img>
+<img src="https://img.icons8.com/color/2x/flutter.png" alt="Flutter" height="25px" width="25px"></img>
 **.**
 
 <h3 align="center">Skills</h3>
@@ -18,6 +17,8 @@ I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="50px" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50px" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="50px" width="50px"></img>
+<img src="https://img.icons8.com/color/2x/dart.png" alt="Dart" height="50px" width="50px"></img>
+<img src="https://img.icons8.com/color/2x/flutter.png" alt="Flutter" height="50px" width="50px"></img>
 </p>
 <br>
 
