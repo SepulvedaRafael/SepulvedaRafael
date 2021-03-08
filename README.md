@@ -15,8 +15,12 @@ I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college 
 <img src="https://img.icons8.com/color/2x/flutter.png" alt="Flutter" height="25px" width="25px"></img>
 **.**
 
-<h3 align="center">Skills</h3>
-<p align="center">
+<h3>Contact</h3>
+
+![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=TWITTER&logo=twitter&style=for-the-badge&url=https://twitter.com/RafaelArley2)
+
+<h3>Skills</h3>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="Python" height="50px" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" height="50px" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="50px" width="50px"></img>
@@ -29,8 +33,3 @@ I am a student at Centro 01 High School in **_São Sebatião, DF_**. In college 
 
 <img src="https://github-readme-stats.vercel.app/api?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" align="center" alt="Stats"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" align="center" alt="Top-langs">
-
-<h3 align="center">Contact</h3>
-<p align="center">
-  <img src="https://img.shields.io/twitter/url?color=blue&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRafaelArley2" alt="Twitter"></img>
-</p>
