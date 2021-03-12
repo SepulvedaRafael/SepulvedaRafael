@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/COUNTRY-BRAZIL-blue?style=for-the-badge" alt="Country"></img>
-  <img src="https://img.shields.io/github/followers/IIShadowGII?style=for-the-badge" alt="Followers"></img>
+  <img src="https://img.shields.io/github/followers/SepulvedaRafael?style=for-the-badge" alt="Followers"></img>
 </p>
 
 <h1 align="center">
@@ -33,6 +33,6 @@
 </p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" alt="Stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" alt="Stats"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIShadowGII&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" align="center" alt="Top-langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" align="center" alt="Top-langs">
