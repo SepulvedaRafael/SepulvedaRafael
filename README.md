@@ -17,7 +17,7 @@
 
 <h2><i>:e-mail: How reach me :e-mail:</i></h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@RafaelArley2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RafaelArley2)](https://twitter.com/RafaelArley2)
+[![Twitter Badge](https://img.shields.io/badge/-@sepulveda_rafa1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sepulveda_rafa1)](https://twitter.com/sepulveda_rafa1)
 [![Email Badge](https://img.shields.io/badge/-sepulvedarafael@protonmail.com-red?style=flat&labelColor=red&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=CSkGSFfhwKmhjTKpFbvhgnXrLVqZqNLKvkPfZRRnxnwthQmplVQNhScZFrLxMLtxfCCdmgGdVmfqjzWWHlHmmxCmCqHZJsnvCCzMqHfKFBTVgfRfHPlKMJtKrpwqghJVqxPXLvcLXwKsHhXFMrmVKFxdMGRFSGqclbh)](https://mail.google.com/mail/u/0/#inbox?compose=CSkGSFfhwKmhjTKpFbvhgnXrLVqZqNLKvkPfZRRnxnwthQmplVQNhScZFrLxMLtxfCCdmgGdVmfqjzWWHlHmmxCmCqHZJsnvCCzMqHfKFBTVgfRfHPlKMJtKrpwqghJVqxPXLvcLXwKsHhXFMrmVKFxdMGRFSGqclbh)
 [![LinkedIn Badge](https://img.shields.io/badge/-RafaelArley-blue?style=flat&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/rafael-arley-1952281b9)](https://www.linkedin.com/in/rafael-arley-1952281b9)
 
