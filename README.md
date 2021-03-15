@@ -39,4 +39,4 @@
 
 <h2><i>:pushpin: Top Langs :pushpin:</i></h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepulvedaRafael&hide=html&layout=compact&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919)
