@@ -33,6 +33,10 @@
 </p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" alt="Stats"></img>
+<h2><i>:mag_right: Github Stats :mag:</i></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919" alt="Top Langs"></img>
+![Rafael's Stats](https://github-readme-stats.vercel.app/api?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919)
+
+<h2><i>:pushpin: Top Langs :pushpin:</i></h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepulvedaRafael&&show_icons=true&title_color=ffffff&icon_color=ffa500&text_color=ff4700&bg_color=191919)
