@@ -8,7 +8,7 @@
 </h1>
 
 
-<p align="center">I am a student at High School Center 01 in <b><i>São Sebatião, DF</i></b>. In college I will study Software Engineering, because I intend to become a Mobile / Desktop Developer. I started programming at the age of 14 with the Python language in order to understand how the world of programming worked.</p>
+<p align="center"><i>I am a student at High School Center 01 in <b><i>São Sebatião, DF</i></b>. In college I will study Software Engineering, because I intend to become a Mobile / Desktop Developer. I started programming at the age of 14 with the Python language in order to understand how the world of programming worked.</i></p>
 
 **_→ I'm currently learning: Dart/Flutter
 <img src="https://img.icons8.com/color/2x/dart.png" alt="Dart" height="25px" width="25px"></img>
