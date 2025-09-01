@@ -1,5 +1,4 @@
 <div align="center">
-  <br>
   <h3><b>👋 Hi, I'm Rafael Sepulveda!</b></h3>
 
   <p><i>👨‍🎓 Computer Science undergraduate student at Universidade Paulista, Brazil</i></p>
