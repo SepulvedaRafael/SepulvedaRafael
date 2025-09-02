@@ -15,11 +15,11 @@
     <a href="https://music.youtube.com/@shadowgnarly"><img src="https://img.shields.io/badge/YOUTUBEMUSIC-000000?style=for-the-badge&logo=youtubemusic&logoColor=darkred" alt="Youtube Music"></a>
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/OBSIDIAN-000000?style=for-the-badge&logo=obsidian&logoColor=5327ad" alt="Obsidian"></a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=XBcJlDMcsZpGrqHnxKmXkWvSCBCGnwbDrdFWDPPFcgJVkxmRkTFktzknVCsWqsBzFmkLrqWCJZJgHLPv"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=d70606" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/rafael-sepulveda/"><img src="assets/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/rafael-sepulveda/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" alt="LinkedIn"></a>
     <br>
-    <a href="https://judge.beecrowd.com/pt/profile/1041459/"><img src="assets/beecrowd.svg" alt="Beecrowd"></a>
-    <a href="https://www.hackerrank.com/profile/rafaelsepulveda1/"><img src="assets/hackerrank.svg" alt="LinkedIn"></a>
-    <a href="https://codeforces.com/profile/rafael_sepulveda/"><img src="assets/codeforces.svg" alt="Codeforces"></a>
+    <a href="https://judge.beecrowd.com/pt/profile/1041459/"><img src="https://img.shields.io/badge/BEECROWD-000000?style=for-the-badge" alt="Beecrowd"></a>
+    <a href="https://www.hackerrank.com/profile/rafaelsepulveda1/"><img src="https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=04eb64" alt="LinkedIn"></a>
+    <a href="https://codeforces.com/profile/rafael_sepulveda/"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=1484c4" alt="Codeforces"></a>
   </p>
 </div>
 
