@@ -12,6 +12,9 @@
     <a href="https://www.learn-c.org/"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=#333f9e" alt="C"></a>
     <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=cplusplus&logoColor=2596be" alt="CPLUSPLUS"></a>
     <br>
+    <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/MARIADB-000000?style=for-the-badge&logo=mariadb&logoColor=a4644c" alt="MariaDB"></a>
+    <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=326393" alt="PostgreSQL"></a>
+    <br>
     <a href="https://music.youtube.com/@shadowgnarly"><img src="https://img.shields.io/badge/YOUTUBEMUSIC-000000?style=for-the-badge&logo=youtubemusic&logoColor=darkred" alt="Youtube Music"></a>
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/OBSIDIAN-000000?style=for-the-badge&logo=obsidian&logoColor=5327ad" alt="Obsidian"></a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=XBcJlDMcsZpGrqHnxKmXkWvSCBCGnwbDrdFWDPPFcgJVkxmRkTFktzknVCsWqsBzFmkLrqWCJZJgHLPv"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=d70606" alt="Gmail"></a>
