@@ -19,6 +19,6 @@
 </div>
 
 <p align="center">
-    <img src="./profile/stats.svg" alt="Github Stats">
+    <img src="https://github-stats-extended.vercel.app/api?username=SepulvedaRafael&bg_color=000000&title_color=FFA500&text_color=FFFFFF&hide=stars&hide_border=true" alt="Github Stats">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sepulvedarafael&langs_count=6&layout=compact&bg_color=000000&title_color=FFA500&text_color=FFFFFF&hide_border=true" alt="Top Langs" width="310">
 </p>
